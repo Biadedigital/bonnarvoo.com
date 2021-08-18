@@ -1,8 +1,8 @@
 /**
-* Template Name: Selecao - v4.3.0
-* Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: Selecao & George - v4.3.0
+* Template URL: https://bootstrapmade.com/selecao-bootstrap-template/ & https://Biadedigital.com
+* Author: BootstrapMade.com & Biadedigital.com
+* License: https://bootstrapmade.com/license/ & GPLv2
 */
 
 /*--------------------------------------------------------------
@@ -15,12 +15,12 @@ body {
 
 a {
   color: #ef6603;
-  text-decoration: none;
+  text-decoration: none!important;
 }
 
 a:hover {
   color: #fc8129;
-  text-decoration: none;
+  text-decoration: none!important;
 }
 
 h1, h2, h3, h4, h5, h6 {
