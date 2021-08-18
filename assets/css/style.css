@@ -1586,3 +1586,8 @@ a:hover {
     text-decoration: none!important;
 }
 
+.testimonials .testimonial-item {
+  
+  min-height: 250px!important;
+  
+}
