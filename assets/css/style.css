@@ -1577,3 +1577,12 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+a {
+    text-decoration: none!important;
+}
+
+a:hover {
+    text-decoration: none!important;
+}
+
